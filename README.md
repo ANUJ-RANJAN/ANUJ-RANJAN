@@ -1,12 +1,12 @@
 # Hey, I'm Anuj 👋
 
 3rd year Software Engineering student at Monash University Clayton.
-I build things that work under real constraints — from near-space 
-missions to full-stack web applications.
+I build things that work under real constraints — from hardware missions 
+to full-stack web applications.
 
 ## 🔨 What I'm Working On
 - **M-HAB (Monash High Altitude Balloon)** — Designing the onboard 
-  data storage subsystem for a near-space scientific balloon mission. 
+  data storage subsystem for a high-altitude scientific balloon mission. 
   Multithreaded C++ pipeline with LZ4 compression and SQLite logging 
   on a Raspberry Pi 5.
 - Exploring AI, full-stack development and real-world problem solving
@@ -30,3 +30,4 @@ C++ • Python • JavaScript • React • Next.js • FastAPI • SQL • AWS 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/anuj-ranjan-736405206)
 | anujranjanofficial@gmail.com
+```
